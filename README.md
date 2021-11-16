@@ -1,1 +1,1 @@
-# Bigdata_Analysis_Practical
+# 빅데이터분석기사 실기 
